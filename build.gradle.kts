@@ -9,7 +9,7 @@ plugins {
 }
 
 group = "io.github.Yakelde"
-version = "0.1.1"
+version = "0.1.2"
 
 java {
 	toolchain {
@@ -64,7 +64,7 @@ mavenPublishing {
 	coordinates( // Coordinate(GAV)
 		groupId = "io.github.yaklede",
 		artifactId = "spring.ai.google.model",
-		version = "0.1.1"
+		version = "0.1.2"
 	)
 
 	pom {

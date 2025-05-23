@@ -22,7 +22,7 @@ Google Gemini Flash 2.0을 OpenAI 스타일 API 호출만으로 사용할 수 �
 
 ```groovy
 dependencies {
-    implementation("io.github.yaklede:spring.ai.google.model:0.1.1")
+    implementation("io.github.yaklede:spring.ai.google.model:0.1.2")
 }
 ```
 
@@ -110,7 +110,7 @@ Use Google Gemini Flash 2.0 in Spring AI without a paid Vertex AI dependency by 
 
 ```groovy
 dependencies {
-    implementation("io.github.yaklede:spring.ai.google.model:0.1.1")
+    implementation("io.github.yaklede:spring.ai.google.model:0.1.2")
 }
 ```
 

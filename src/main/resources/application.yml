@@ -1,0 +1,8 @@
+spring:
+  ai:
+    openai:
+      api-key: your-api-key
+      chat:
+        completions-path: /v1beta/models/gemini-2.0-flash:generateContent
+        base-url: https://generativelanguage.googleapis.com
+        api-key: your-api-key
